@@ -1,0 +1,14 @@
+C:\Users\Students\source\repos\FirstStepsInCoding - Lab\09. Yard Greening\bin\Debug\net8.0\09. Yard Greening.exe
+C:\Users\Students\source\repos\FirstStepsInCoding - Lab\09. Yard Greening\bin\Debug\net8.0\09. Yard Greening.deps.json
+C:\Users\Students\source\repos\FirstStepsInCoding - Lab\09. Yard Greening\bin\Debug\net8.0\09. Yard Greening.runtimeconfig.json
+C:\Users\Students\source\repos\FirstStepsInCoding - Lab\09. Yard Greening\bin\Debug\net8.0\09. Yard Greening.dll
+C:\Users\Students\source\repos\FirstStepsInCoding - Lab\09. Yard Greening\bin\Debug\net8.0\09. Yard Greening.pdb
+C:\Users\Students\source\repos\FirstStepsInCoding - Lab\09. Yard Greening\obj\Debug\net8.0\09. Yard Greening.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Students\source\repos\FirstStepsInCoding - Lab\09. Yard Greening\obj\Debug\net8.0\09. Yard Greening.AssemblyInfoInputs.cache
+C:\Users\Students\source\repos\FirstStepsInCoding - Lab\09. Yard Greening\obj\Debug\net8.0\09. Yard Greening.AssemblyInfo.cs
+C:\Users\Students\source\repos\FirstStepsInCoding - Lab\09. Yard Greening\obj\Debug\net8.0\09. Yard Greening.csproj.CoreCompileInputs.cache
+C:\Users\Students\source\repos\FirstStepsInCoding - Lab\09. Yard Greening\obj\Debug\net8.0\09. Yard Greening.dll
+C:\Users\Students\source\repos\FirstStepsInCoding - Lab\09. Yard Greening\obj\Debug\net8.0\refint\09. Yard Greening.dll
+C:\Users\Students\source\repos\FirstStepsInCoding - Lab\09. Yard Greening\obj\Debug\net8.0\09. Yard Greening.pdb
+C:\Users\Students\source\repos\FirstStepsInCoding - Lab\09. Yard Greening\obj\Debug\net8.0\09. Yard Greening.genruntimeconfig.cache
+C:\Users\Students\source\repos\FirstStepsInCoding - Lab\09. Yard Greening\obj\Debug\net8.0\ref\09. Yard Greening.dll
